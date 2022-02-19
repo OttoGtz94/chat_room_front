@@ -1,0 +1,2 @@
+export const USUARIO_EXITO = 'USUARIO_EXITO';
+export const USUARIO_ERROR = 'USUARIO_ERROR';
